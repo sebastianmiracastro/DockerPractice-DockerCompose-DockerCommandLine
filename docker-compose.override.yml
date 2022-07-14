@@ -4,4 +4,4 @@ services:
   app:
     build: .
     environment:
-      NEW_ENVIROMENT: "HI PLATZIII"
+      NEW_ENVIROMENT: "Open Bash to see"
